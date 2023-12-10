@@ -1,2 +1,0 @@
-# .github
-Interactive-Color-Study
